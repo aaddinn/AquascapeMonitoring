@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929954094215",
+    "firebase_url": "https://aquascapemonitoring.firebaseio.com",
+    "project_id": "aquascapemonitoring",
+    "storage_bucket": "aquascapemonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929954094215:android:cc10ea59b8fe9808",
+        "android_client_info": {
+          "package_name": "me.crackn.aquascapemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929954094215-mqb5pq9hp4b6lrkcieq5nasnj9al8qp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.crackn.aquascapemonitoring",
+            "certificate_hash": "dd06c90fdcbffe3655a0bc608f9c235093117ab0"
+          }
+        },
+        {
+          "client_id": "929954094215-6t19dt089m60n0rvnbbsudedjh5r48mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Rnvz3CFCU6wW9ZDhEqh1hPupuioQ6zc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929954094215-6t19dt089m60n0rvnbbsudedjh5r48mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
